@@ -1,3 +1,7 @@
+/* MODELO 
+Esta clase representa los datos de los contactos y el acceso al archivo CSV 
+Gestionador de los atributos: lectura y escritura de informaicón
+*/
 package modelo;
 
 //Definición de la clase pública "persona"
